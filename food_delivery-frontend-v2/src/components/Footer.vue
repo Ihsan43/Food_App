@@ -13,7 +13,7 @@
                 alt="linkedin"
               />
             </a>
-            <a href="https://github.com/GeorgiyIakunenko" target="_blank">
+            <a href="https://github.com/Ihsan43" target="_blank">
               <img
                 class="h-5 w-5"
                 src="@/assets/images/github.svg"
@@ -21,7 +21,7 @@
               />
             </a>
             <a
-              href="https://www.facebook.com/profile.php?id=100009472551652"
+              href="https://www.facebook.com"
               target="_blank"
             >
               <img
@@ -30,7 +30,7 @@
                 alt="facebook"
               />
             </a>
-            <a href="https://www.instagram.com/goshan_3097/" target="_blank">
+            <a href="https://www.instagram.com/" target="_blank">
               <img
                 class="h-5 w-5"
                 src="@/assets/images/instagram.svg"
