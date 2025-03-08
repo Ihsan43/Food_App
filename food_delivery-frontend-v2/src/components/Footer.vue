@@ -37,7 +37,7 @@
                 alt="instagram"
               />
             </a>
-            <a href="mailto:goshan3097@gmail.com" target="_blank">
+            <a href="mailto:Faisalihsan37@gmail.com" target="_blank">
               <img
                 class="h-5 w-5"
                 src="@/assets/images/gmail.svg"
